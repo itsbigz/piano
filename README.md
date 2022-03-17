@@ -1,4 +1,4 @@
-# piano
+# piano with assembly!
 Part one: what is a keyboard (instrument)?
 Keyboard instrument, any musical instrument on which different notes can be sounded by pressing a series of keys, push buttons, or parallel levers. In nearly all cases in Western music the keys correspond to consecutive notes in the chromatic scale, and they run from the bass at the left to the treble at the right. (1)
 
